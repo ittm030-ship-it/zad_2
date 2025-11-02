@@ -51,7 +51,7 @@ Druga komenda powoduje, że przechodzimy do właśnie stworzonego katalogu
 Trzecia komenda inicjuje puste repozytorium
 Czwarta komenda wyświetla informacje o stanie repozytorium
 Jak widać na powyższym rysunku po stworzeniu pustego repozytorium pracujemy w głównej gałęzi
-master i brak jest zarejestrowanych jakichkolwiek „migawek” (commits)
+**master** i brak jest zarejestrowanych jakichkolwiek „migawek” (commits)
 Dodawanie pliku/ów do indeksu:
 • $git add file - dodanie pliku do indeksu
 • $git rm - -cached file - usunięcie pliku z indeksu
