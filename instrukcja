@@ -98,16 +98,16 @@ W tym celu należy wykonać następujące kroki.
 2. Stworzyć nowy projekt w którym będziemy chcieli umieścić nasze lokalne repozytorium
 3. W lokalnym repozytorium dodać informacje na jaki serwer mają być wysyłane dane
 realizuje to komenda:
-$git remote add origin git@g itlab.com:user/projekt1.git
+**$git remote add origin git@g itlab.com:user/projekt1.git**
 (jako user nazwa Państwa konta na serwerze)
 I teraz można „wypchnąć” lokalne repozytorium na serwer komendą:
-$git push origin master
+**$git push origin master**
 gdy istnieją dodatkowe rozgałęzienia w repozytorium, to każde musi być „wypchnięte” oddzielną
 komendą
-$git push origin nazwaGalezi
+**$git push origin nazwaGalezi**
 Gdy chcemy pobrać repozytorium z serwera na jakąś inną lokalną maszynę to wtedy należy
 wykonać klonowanie zdalnego repozytorium komendą:
-$git clone git@gitlab.com:user/projekt1.git
+**$git clone git@gitlab.com:user/projekt1.git**
 Na potrzeby tej instrukcji stworzono projekt o nazwie testowy na koncie gitlab autora instrukcji
 Po wciśnięciu przycisku Create project zostanie wygenerowany ekran z listą instrukcji które
 należy wykonać w zależności od kontekstu w jakim chcemy użyć nasz projekt.
