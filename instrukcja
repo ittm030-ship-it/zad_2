@@ -74,7 +74,7 @@ Następnie stworzono kolejny pusty plik (następny.md) co również system zasyg
 wyświetlony kolejny log stanu repozytorium.
 Jak widać na kolejnym rysunku w repozytorium zostały umieszczone trzy „migawki” stanu
 repozytorium wszystkie umieszczone w gałęzi głównej „master”.
-Git – praca z rozgałęzieniami
+##Git – praca z rozgałęzieniami
 Bardzo często zachodzi taka sytuacja, że nie chcemy wprowadzać zmian w głównej gałęzi a tylko
 wykonać jakieś prace testowe i później zdecydować czy dołączyć je do głównej gałęzi lub nie. Do
 tego służą rozgałęzienia, i operacja ich łączenia.
