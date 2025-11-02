@@ -31,7 +31,7 @@ czas można przenieść lokalne zmiany w repozytorium na serwer (komenda push).
 Uwaga: Do pracy z systemem git należy zainstalować oprogramowanie ze strony:
 https://git-scm.com/downloads
 Po zainstalowaniu będzie dostępna powłoka z wyglądu podobna do tej z poniższego rysunku
-Jest to aplikacja Git Bash w której wydajemy polecenia z linii komend.
+Jest to aplikacja **Git Bash** w której wydajemy polecenia z linii komend.
 Pierwszym krokiem po instalacji git’a i uruchomieniu aplikacji Git Bash jest wydanie dwóch
 poleceń:
 $git config --global user.name "Student Wspaniały"
