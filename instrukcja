@@ -109,7 +109,7 @@ Gdy chcemy pobrać repozytorium z serwera na jakąś inną lokalną maszynę to 
 wykonać klonowanie zdalnego repozytorium komendą:
 **$git clone git@gitlab.com:user/projekt1.git**
 Na potrzeby tej instrukcji stworzono projekt o nazwie testowy na koncie gitlab autora instrukcji
-Po wciśnięciu przycisku Create project zostanie wygenerowany ekran z listą instrukcji które
+Po wciśnięciu przycisku **Create project** zostanie wygenerowany ekran z listą instrukcji które
 należy wykonać w zależności od kontekstu w jakim chcemy użyć nasz projekt.
 Ostatni rysunek pokazuje przesłanie lokalnego repozytorium na serwer gitlab.com
 W tym przypadku nie musiano podawać loginu i hasła ponieważ pomiędzy maszyną lokalną a
