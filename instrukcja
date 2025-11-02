@@ -66,7 +66,7 @@ do repozytorium
 Polecenie $git log wyświetla listę zapisanych „migawek”. Każda migawka identyfikowana jest
 sekwencją liczb szesnastkowych (żółte cyfry) – komentarzem jaki podajemy podczas wywoływania
 polecenia $git commit.
-Git – dodanie kolejnych plików, modyfikacja i stworzenie kolejnych „migawek”
+##Git – dodanie kolejnych plików, modyfikacja i stworzenie kolejnych „migawek”
 Używając tekstowego edytora nano (można użyć własnego ulubionego edytora) – zmodyfikowano
 zawartość pliku nowy.md – co natychmiast zauważył system kontroli wersji (modified nowy.md).
 Następnie stworzono kolejny pusty plik (następny.md) co również system zasygnalizował jako:
