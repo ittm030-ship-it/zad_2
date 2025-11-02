@@ -39,7 +39,7 @@ $git config --global user.email "wspanialy@pw.edu.pl"**
 W ten sposób informujemy system git kto będzie autorem zmian wprowadzanych do repozytorium
 Uwaga: należy wprowadzić własne dane osobowe i własny adres e-mail
 W przypadku piszącego tą instrukcję wynik wprowadzonych komend ma postać:
-Git – tworzenie pustego archiwum lokalnego.
+#Git – tworzenie pustego archiwum lokalnego.
 Należy w konsoli wywołać następującą sekwencję komend (zakładając, że repozytorium będzie
 nosiło nazwę repo1):
 1. $mkdir repo1
